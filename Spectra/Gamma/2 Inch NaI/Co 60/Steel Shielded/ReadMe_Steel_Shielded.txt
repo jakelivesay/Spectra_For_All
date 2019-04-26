@@ -1,0 +1,6 @@
+Filenaming Format:
+Activity_Isotope_SourceDetectorDistance_Increment_MaterialThickness_Material_Duration
+
+Trailing Underscore indicates repeated measurement
+
+0uCi indicates background measurement
